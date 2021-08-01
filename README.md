@@ -12,7 +12,7 @@ Below you will find a set of charts demonstrating the paths that you can take, a
 ***
 
 <p align="center">
-		<sup>Special Announcement:</sup>
+		<sup>Special Announcements:</sup>
 		<br>
 		<a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
 			<img width="70px" src="https://roadmap.sh/sponsors/youtube.svg">
