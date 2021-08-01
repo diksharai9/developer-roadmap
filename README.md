@@ -1,13 +1,13 @@
 ![Web Developer Roadmap - 2021](https://i.imgur.com/4u3LK4j.png)
 
-> Roadmap to becoming a web developer in 2021
+> Roadmap to become a web developer in 2021
 
 [![](https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
 [![](https://img.shields.io/badge/-Guides-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh/guides)
 [![](https://img.shields.io/badge/-Translations-0a0a0a.svg?style=flat&colorA=0a0a0a)](./translations)
 [![](https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1)
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
+Below you will find a set of charts demonstrating the paths that you can take and the technologies that you have to adopt in order to become a frontend, backend or a devops developer. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
 
 ***
 
@@ -20,7 +20,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 		<br>
 		<sub><b>We now have a YouTube Channel</b></sub>
 		<br>
-		<sub>I plan on covering the roadmaps and put more content there<br><a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">Subscribe to the channel</a>.</sub>
+		<sub>I have planned to cover these roadmaps and put more content there<br><a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">Subscribe to the channel</a>.</sub>
 </p>
 
 ***
@@ -61,7 +61,7 @@ If you think that these can be improved in any way, please do suggest.
 
 ## Wrap Up
 
-If you think any of the roadmaps can be improved, feel free to discuss it in the issues. Also, I will continue to improve this, so you might want to watch this repository or subscribe at [roadmap.sh](http://roadmap.sh) to revisit.
+If you think any of the roadmaps can be improved, feel free to discuss it in the issues. Also, I will continue improving this, so you might want to watch this repository or subscribe at [roadmap.sh](http://roadmap.sh) to revisit.
 
 ## Contribution
 
